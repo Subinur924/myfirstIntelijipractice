@@ -7,6 +7,5 @@ public class helloworld {
         String home;
         String townhouse;
 
-
     }
 }
